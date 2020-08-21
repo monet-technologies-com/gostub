@@ -5,3 +5,5 @@ github.com/junpayment/gostub v1.1.1/go.mod h1:yfG+Lb+AnPWxBf6AbvY/0iHX57kN6BVhOZ
 github.com/monet-technologies-com/gostub v1.0.3 h1:Zl4WPogusvykHmirrGV4Gn1fgWRRm2VsH7it9WRiyCg=
 github.com/monet-technologies-com/gostub v1.0.4 h1:MXQyym6G6xAHID1EH+DN5/wq0PZkRjGOQcCzOAayjhA=
 github.com/monet-technologies-com/gostub v1.0.4/go.mod h1:yfG+Lb+AnPWxBf6AbvY/0iHX57kN6BVhOZGliVeZW3g=
+github.com/monet-technologies-com/gostub v1.0.5 h1:IN9dsFXaRnhR7cSLOqdjpb+2DrZt4iEH3TqhTlwjLt0=
+github.com/monet-technologies-com/gostub v1.0.5/go.mod h1:4jCtd3Ic13nloOGSC7qi5QxttL49Pef0BAEa25zN/OE=

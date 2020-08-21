@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/junpayment/gostub/gostub"
+	"github.com/monet-technologies-com/gostub/gostub"
 )
 
 var (

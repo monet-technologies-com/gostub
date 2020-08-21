@@ -7,6 +7,4 @@ require (
 	github.com/junpayment/gostub v1.1.1
 )
 
-replace (
-    github.com/junpayment/gostub => github.com/monet-technologies-com/gostub v1.0.5
-)
+replace github.com/gostub/gostub => github.com/monet-technologies-com/gostub v1.0.6
