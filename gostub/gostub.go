@@ -22,7 +22,6 @@ type Gostub struct {
 }
 
 func (g *Gostub) Run() {
-	fmt.Println("hoge")
 	http.HandleFunc("/", g.HandleStubRequest)
 	http.HandleFunc("/gostub/shutdown", handleShutdown)
 	portAddress := ":" + g.Port

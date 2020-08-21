@@ -1,2 +1,7 @@
 github.com/gostub/gostub v1.0.3 h1:utD9bvqA6hmmHvgzfocuMDanNH32vUtuANw6V4iht7w=
 github.com/gostub/gostub v1.0.3/go.mod h1:6qN8zuPP3wVmbyfnK4gjV1z//MqZ433AgMA9+x7xpG4=
+github.com/junpayment/gostub v1.1.1 h1:GSKIFguENFw+n8clFL7E1UR0OGllEZP9AII1wgqAmUo=
+github.com/junpayment/gostub v1.1.1/go.mod h1:yfG+Lb+AnPWxBf6AbvY/0iHX57kN6BVhOZGliVeZW3g=
+github.com/monet-technologies-com/gostub v1.0.3 h1:Zl4WPogusvykHmirrGV4Gn1fgWRRm2VsH7it9WRiyCg=
+github.com/monet-technologies-com/gostub v1.0.4 h1:MXQyym6G6xAHID1EH+DN5/wq0PZkRjGOQcCzOAayjhA=
+github.com/monet-technologies-com/gostub v1.0.4/go.mod h1:yfG+Lb+AnPWxBf6AbvY/0iHX57kN6BVhOZGliVeZW3g=
