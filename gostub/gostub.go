@@ -22,6 +22,7 @@ type Gostub struct {
 }
 
 func (g *Gostub) Run() {
+	fmt.Println("hoge")
 	http.HandleFunc("/", g.HandleStubRequest)
 	http.HandleFunc("/gostub/shutdown", handleShutdown)
 	portAddress := ":" + g.Port
@@ -143,10 +144,10 @@ func (g *Gostub) IsMatchRoute(route string, path string) (bool, map[string]strin
 			return false, nil
 		}
 		routeNode := splitRoute[idx]
-		if routeNode != pathNode && !strings.HasPrefix(routeNode, ":") {
+		if routeNode != pathNode && !strings.HasPrefix(routeNode, "@") {
 			return false, nil
 		}
-		if strings.HasPrefix(routeNode, ":") {
+		if strings.HasPrefix(routeNode, "@") {
 			params[routeNode[1:]] = pathNode
 		}
 	}
