@@ -8,5 +8,5 @@ require (
 )
 
 replace (
-    github.com/junpayment/gostub => github.com/monet-technologies-com/gostub v1.0.4
+    github.com/junpayment/gostub => github.com/monet-technologies-com/gostub v1.0.5
 )
